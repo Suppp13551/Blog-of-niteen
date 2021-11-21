@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    size: 20%;
+    background-color: rgb(87, 6, 6);
+}
+#Heading{
+    font-family: cursive;
+    font-variant: small-caps;
+    color: lightblue;
+}
+.Row1{
+    display: flex;
+    justify-content: center;  
+}
+.Row2{
+    display: flex;
+    justify-content: center; 
+
+}
